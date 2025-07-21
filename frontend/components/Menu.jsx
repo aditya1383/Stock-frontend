@@ -18,7 +18,6 @@ const Menu = ({ onLogout }) => {
   const activeClass = "menu selected";
   return (
     <div className="menu-container">
-      <img src="media\images\dashboardLogo.png" style={{ width: "50px" }} />
       <div className="menus top">
         <ul>
           <li>
