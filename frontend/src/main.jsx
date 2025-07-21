@@ -69,9 +69,7 @@ const Routeshandler = () => {
      <TopBar />
       <Routes>
         <Route path='/dashboard' element={
-{/*           <ProtectedRoute> */}
           <Dashboard />
-{/*           </ProtectedRoute> */}
         }>
           <Route index element={<Summary />} />
          <Route path="orders" element={<Orders />} />
