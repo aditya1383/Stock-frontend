@@ -15,8 +15,8 @@ const Team = () => {
                 </div>
 
                 <div className="col text-muted mt-2 p-5" style={{ lineHeight: "1.8", fontSize: "1.2em" }}>
-                    <p>Nithin bootstrapped and founded Zerodha in 2010 to overcome the hurdles he faced during his decade long stint as a trader. Today, Zerodha has changed the landscape of the Indian broking industry.</p>
-                    <p>He is a member of the SEBI Secondary Market Advisory Committee (SMAC) and the Market Data Advisory Committee (MDAC).</p>
+                    <p>I bootstrapped and made Dhansetu in 2025 and overcome the hurdles and make a full-stack app trading app. Today, Dhansetu is going to changed the landscape of the Indian broking industry.</p>
+                    <p>Focused on building intuitive tools for traders and investors navigating India's evolving equity landscape.</p>
                     <p>Playing basketball is his zen.</p>
                     <p className="mb-5">Connect on <a href="" style={{textDecoration:"none"}}>Homepage</a> / <a href="" style={{textDecoration:"none"}}>TradingQnA</a> /{" "}
                         <a href="" style={{textDecoration:"none"}}>Twitter</a>
