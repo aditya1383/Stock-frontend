@@ -10,7 +10,7 @@ const Hero = () => {
 
             <div className="row mt-5 border-top p-3 mb-5">
                 <div className="col p-5 mt-5 mx-4 text-muted" style={{ lineHeight: "1.8", fontSize: "1.2em" }}>
-                    <p>We kick-started operations on the 15th of August, 2010 with the goal of breaking all barriers that traders and investors face in India in terms of cost, support, and technology. We named the company Zerodha, a combination of Zero and "Rodha", the Sanskrit word for barrier.</p>
+                    <p>I kick-started and complete this app on the 27th of July, 2025 with the goal of breaking all barriers that traders and investors face in India in terms of cost, support, and technology. We named the company Dhansetu, a combination of Dhan and "Setu", the Sanskrit word for bridge.</p>
 
                     <p>Today, our disruptive pricing models and in-house technology have made us the biggest stock broker in India.</p>
 
