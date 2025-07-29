@@ -10,7 +10,7 @@ const ProductPage = () => {
         <Hero />
         <LeftSection imageURL="media/images/kite.png" productName="Coin" productDescription="Our ultra-fast flagship trading platform with streaming market data, advanced charts, an elegant UI, and more. Enjoy the Kite experience seamlessly on your Android and IOS devices" tryDemo="" LearnMore="" googlePlay="" appStore="" />
         
-        <RightSection imageURL="media/images/console.png" productName="Console" productDescription="The central dashboard for your Zerodha account, Gain insights into your trades and investments with in-depth reports and visualisations" LearnMore=""/>
+        <RightSection imageURL="media/images/console.png" productName="Console" productDescription="The central dashboard for your Dhansetu account, Gain insights into your trades and investments with in-depth reports and visualisations" LearnMore=""/>
 
         <LeftSection imageURL="media/images/coin.png" productName="Coin" productDescription="Buy direct mutual funds online, commission-free, delivered directly to your Demat account, Enjoy the investment experience on your Android and IOS devices" tryDemo="" learnMore="" googlePlay="" appStore="" />
       
