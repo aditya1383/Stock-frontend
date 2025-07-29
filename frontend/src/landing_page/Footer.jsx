@@ -6,8 +6,8 @@ const Footer = () => {
         <div className="container mt-5 mb-2 ">
             <div className="row  mb-5">
                 <div className="col mt-5">
-                    <img src="media/images/logo.svg" alt="Logo" className="mb-3" style={{width:"55%"}} />
-                    <p>&copy; 2010-2024, Not Zerodha Broking Ltd. All rigths reserved.</p>
+                    <img src="media/images/Dhansetu.png" alt="Logo" className="mb-3" style={{width:"55%"}} />
+                    <p>&copy; 2010-2024, Not Dhansetu Broking Ltd. All rigths reserved.</p>
                 </div>
                 <div className="col">
                     <p>Company</p>
@@ -22,11 +22,11 @@ const Footer = () => {
 
                     <p className="text-muted" ><a  style={{textDecoration:"none"}}>Carreres</a></p>
 
-                    <p className="text-muted" ><a  style={{textDecoration:"none"}}>Zerodha.tech</a></p>
+                    <p className="text-muted" ><a  style={{textDecoration:"none"}}>Dhansetu Technology</a></p>
 
                     <p className="text-muted" ><a style={{textDecoration:"none"}}>Press & media</a></p>
 
-                    <p className="text-muted"> <a  style={{textDecoration:"none"}}>Zerodha cares (CSR)</a></p>
+                    <p className="text-muted"> <a  style={{textDecoration:"none"}}>Dhansetu cares (CSR)</a></p>
                 </div>
 
                 <div className="col">
@@ -54,7 +54,7 @@ const Footer = () => {
                 </div>
             </div>
 
-            <p className="text-muted" style={{fontSize:"14px"}}>Zerodha Broking Ltd.: Member of NSE​ &​ BSE – SEBI Registration no.: INZ000031633 CDSL: Depository services through Zerodha Securities Pvt. Ltd. – SEBI Registration no.: IN-DP-100-2015 Commodity Trading through Zerodha Commodities Pvt. Ltd. MCX: 46025 – SEBI Registration no.: INZ000038238 Registered Address: Zerodha Broking Ltd., #153/154, 4th Cross, Dollars Colony, Opp. Clarence Public School, J.P Nagar 4th Phase, Bengaluru - 560078, Karnataka, India. For any complaints pertaining to securities broking please write to complaints@zerodha.com, for DP related to dp@zerodha.com. Please ensure you carefully read the Risk Disclosure Document as prescribed by SEBI | ICF</p>
+            <p className="text-muted" style={{fontSize:"14px"}}>Dhansetu is a conceptual stock trading platform developed solely for educational and demonstration purposes. All market data, user interactions, and trade simulations are fictitious and not tied to any real-world financial institutions or exchanges. The project aims to showcase full-stack proficiency, including React-based dashboard design, secure authentication flows, backend API integration via Express, session management, and UI/UX finesse through custom branding and responsive layout.</p>
 
             <p className="text-muted" style={{fontSize:"14px"}}>Procedure to file a complaint on SEBI SCORES: Register on SCORES portal. Mandatory details for filing complaints on SCORES: Name, PAN, Address, Mobile Number, E-mail ID. Benefits: Effective Communication, Speedy redressal of the grievances</p>
 
