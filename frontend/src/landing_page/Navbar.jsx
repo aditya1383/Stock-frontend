@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
         <nav class="navbar navbar-expand-lg mt-2 p-3 border-bottom" style={{backgroundColor:"#FFF"}}>
   <div class="container">
-    <Link class="navbar-brand" to="/"><img src="media/images/logo.svg" alt="Logo" style={{width:"25%"}}/></Link>
+    <Link class="navbar-brand" to="/"><img src="media/images/Dhansetu.png" alt="Logo" style={{width:"25%"}}/></Link>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
