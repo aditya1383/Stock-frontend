@@ -12,7 +12,7 @@ const Awards = () => {
 
                 <div className="col-6 p-4 mt-3">
                     <h1 className="pl-2"  style={{textAlign:"left"}}>Largest stock broker in India</h1>
-                    <p className="pl-2 fs-7" style={{textAlign:"left"}}>2+ million Zerodha clients Contribute to over 15% of all retail order volumes in India daily by trading and investing in</p>
+                    <p className="pl-2 fs-7" style={{textAlign:"left"}}>2+ million Dhansetu(conceptual) clients Contribute to over 15% of all retail order volumes in India daily by trading and investing in</p>
 
                     <div className="row mt-5">
                         <div className="col-6" style={{textAlign:"left"}}>
