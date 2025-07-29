@@ -13,7 +13,7 @@ const Stats = () => {
                     <h3 className="fs-4 mt-2">No spam or gimmicks</h3>
                     <p className="text-muted">No gimmicks spam, "gamification", or annoying push notifications. High quality apps that you use at your pace, the way you like</p>
 
-                    <h3 className="fs-4 mt-2">The Zerodha universe</h3>
+                    <h3 className="fs-4 mt-2">The Dhansetu universe</h3>
                     <p className="text-muted">Not just an app, but a whole ecosystem. Our investments in 30+ fintech startups offer you tailored services specific to your needs</p>
 
                     <h3 className="fs-4 mt-2">Do better with moneys</h3>
