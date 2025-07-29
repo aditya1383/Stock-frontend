@@ -10,8 +10,8 @@ const Team = () => {
             <div className="row mt-5 mb-5">
                 <div className="col text-muted text-center p-5">
                     <img src="media/images/Avatar.PNG" alt="Founder" className="mb-5" style={{borderRadius:"100%", width:"48%"}}/>
-                    <h3 className="fs-4">Nithin Kamath</h3>
-                    <h6 className="mt-3 mb-5">Founder, CEO</h6>
+                    <h3 className="fs-4">Aditya</h3>
+                    <h6 className="mt-3 mb-5">Full-Stack Architectt</h6>
                 </div>
 
                 <div className="col text-muted mt-2 p-5" style={{ lineHeight: "1.8", fontSize: "1.2em" }}>
