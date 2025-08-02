@@ -18,7 +18,7 @@ const ProductPage = () => {
 
       <LeftSection imageURL="media/images/varsity.png" productName="Varsity mobile" productDescription="An easy to grasp, Collection of stock market lessons with in-depth coverage and illustrations. Content is broken down into bite-size cards to help you learn on the go" tryDemo="" learnMore="" googlePlay="" appStore="" />
 
-       <p className="text-center mt-5 mb-5">Want to know morea about our technology stack? Check out the Zerodha.tech blog.</p>
+       <p className="text-center mt-5 mb-5">Want to know morea about our technology stack? Check out the Dashboard.</p>
       
         <Universe />
         </>
